@@ -7,7 +7,7 @@ Name: Yazhong(Robbie) Shen
 Contact: yazhong.shen@citrix.com
 
 ## Table of Contents
-[1. Generate Citrix Static IPDB](https://github.com/yazshen/citrix-adc-scripts/blob/master/generate-citrix-static-ipdb.md)
+[1. Generate Citrix Static IPDB for GSLB&LLB on ADC](https://github.com/yazshen/citrix-adc-scripts/blob/master/generate-citrix-static-ipdb.md)
 
 
 ## License
