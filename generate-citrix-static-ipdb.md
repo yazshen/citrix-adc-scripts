@@ -3,16 +3,19 @@
 ## Script Download Link
 https://github.com/yazshen/citrix-adc-scripts/blob/master/GenerateCitrixIPDB.py
 
-## Citrix Static IPDB on ADC (2020/04/02) Download Link
-https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-CN-ipv4-20200402.txt
+## Citrix Static CN IPDB on ADC (2020/04/02) Download Link
+IPv4: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-CN-ipv4-20200402.txt
+IPv6: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-CN-ipv6-20200402.txt
 
 ## Prerequisite:
 
-Install "whois" command first
+Existing "whois" command on your client
+
+Install ipcalc module from pip
 
 ## TODO: 
 
-GenerateCitrixCNIPDB.py ipv4
+GenerateCitrixIPDB.py ipv4|ipv6 CN|HK|TW
 
 ## Requirements
 
@@ -20,9 +23,9 @@ Python 3.7.6 or higher
 
 ## Next Plan
 
-+ Support IPv6
++ Support IPv6 (done)
 
-+ Support CN|HK|TW
++ Support CN|HK|TW (done)
 
 + Run script without "whois" command requirement
 
