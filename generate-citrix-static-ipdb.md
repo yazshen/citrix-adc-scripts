@@ -1,9 +1,10 @@
 # Generate Citrix Static IPDB for GSLB&LLB on ADC
 
 ## Script Download Link
+https://github.com/yazshen/citrix-adc-scripts/blob/master/GenerateCitrixIPDB.py
 
 ## Citrix Static IPDB on ADC (2020/04/02) Download Link
-
+https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-CN-ipv4-20200402.txt
 
 ## Prerequisite:
 
