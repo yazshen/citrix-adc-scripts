@@ -4,9 +4,17 @@
 https://github.com/yazshen/citrix-adc-scripts/blob/master/GenerateCitrixIPDB.py
 
 ## Citrix Static CN IPDB on ADC (2020/04/02) Download Link
-IPv4: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-CN-ipv4-20200402.txt
+CN IPv4: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-CN-ipv4-20200402.txt
 
-IPv6: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-CN-ipv6-20200402.txt
+CN IPv6: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-CN-ipv6-20200402.txt
+
+HK IPv4: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-HK-ipv4-20200402.txt
+
+HK IPv6: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-HK-ipv6-20200402.txt
+
+TW IPv4: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-TW-ipv4-20200402.txt
+
+TW IPv6: https://github.com/yazshen/citrix-adc-scripts/blob/master/Citrix-IPDB-TW-ipv6-20200402.txt
 
 ## Prerequisite:
 
